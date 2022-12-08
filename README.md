@@ -44,6 +44,7 @@ Une liste de ressources awesome pour un numérique responsable 🌱
 - [Ecometer](http://ecometer.org) - Analyse your website's ecodesign maturity
 * [Kastor.green](https://kastor.green/), outil d'audit d'évaluation de la conformité NR des sites web et applications web proposé par Spécinov, basé sur les recommandations du GR491 de l'INR
 - [Yellow Lab Tools](https://yellowlab.tools/) - Online test to help speeding up heavy web pages
+- [GreenFrame](https://github.com/marmelab/greenframe-cli) - Outil de mesure des émissions d'un site web (client, réseau, serveurs) lors de l'exécustion d'un scénario web. Basé sur Docker, destiné à s'intégrer dans une CI. 
 
 ## Pour approfondir
 
